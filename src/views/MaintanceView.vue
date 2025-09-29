@@ -24,7 +24,7 @@
       <!-- Contact Info -->
       <p class="text-xs md:text-sm text-slate-400">
         Need immediate assistance?  
-        <a href="mailto:support@example.com" class="text-amber-300 hover:underline">Contact Support</a>
+        <a href="mailto:xazignn@yahoo.com" class="text-amber-300 hover:underline">Contact Support</a>
       </p>
     </div>
   </div>
