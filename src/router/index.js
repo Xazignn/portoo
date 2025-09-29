@@ -23,7 +23,7 @@ const routes = [
   {
     path: '/blog',
     name: 'blog',
-    component: () => import('../views/BlogView.vue'),
+    component: () => import('../views/MaintanceView.vue'),
     meta: { title: 'Blog' }
   },
   {
@@ -40,7 +40,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + ' - bagasRakha();'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + ' - XAZIGN'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
   next();
 });
 

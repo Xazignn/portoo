@@ -6,102 +6,102 @@ export default {
       tech: [
         {
           id: 1,
-          name: 'HTML',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
+          name: 'Photoshop',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968520.png',
           status: 'Advanced'
         },
         {
           id: 2,
-          name: 'CSS',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
+          name: 'Illustrator',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968472.png',
           status: 'Advanced'
         },
         {
           id: 3,
-          name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
+          name: 'Premiere Pro',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968525.png',
           status: 'Advanced'
         },
         {
           id: 4,
-          name: 'Javascript',
-          imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
+          name: 'After Effects',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968428.png',
           status: 'Advance'
         },
         {
           id: 5,
-          name: 'Laravel',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
+          name: 'Alight Motion',
+          imageUrl: '',
           status: 'Advance'
         },
         {
           id: 6,
-          name: 'Codeigniter',
+          name: 'Blender',
           imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
+          status: 'Advanced'
         },
         {
           id: 7,
-          name: 'VueJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
+          name: 'SketchUp',
+          imageUrl: 'https://www.flaticon.com/free-icon/google-sketchup-logotype_2197.png',
+          status: 'Advanced'
         },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
-        {
-          id: 9,
-          name: 'NodeJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
-          status: 'Beginner'
-        },
-        {
-          id: 10,
-          name: 'Tailwind',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
-        },
-        {
-          id: 11,
-          name: 'Bootstrap',
-          imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 12,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
-          status: 'Beginner'
-        }
+        // {
+        //   id: 8,
+        //   name: 'AlpineJS',
+        //   imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
+        //   status: 'Beginner'
+        // },
+        // {
+        //   id: 9,
+        //   name: 'NodeJS',
+        //   imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
+        //   status: 'Beginner'
+        // },
+        // {
+        //   id: 10,
+        //   name: 'Tailwind',
+        //   imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
+        //   status: 'Advance'
+        // },
+        // {
+        //   id: 11,
+        //   name: 'Bootstrap',
+        //   imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
+        //   status: 'Intermediate'
+        // },
+        // {
+        //   id: 12,
+        //   name: 'ReactJS',
+        //   imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+        //   status: 'Beginner'
+        // }
       ],
       tools: [
-        {
-          id: 1,
-          name: 'Git',
-          imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
-          status: 'Version Control'
-        },
-        {
-          id: 2,
-          name: 'GitHub',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
-          status: 'Git Hosting'
-        },
-        {
-          id: 3,
-          name: 'NPM',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
-          status: 'Package Manager'
-        },
-        {
-          id: 4,
-          name: 'MySQL',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
-          status: 'Database'
-        },
+        // {
+        //   id: 1,
+        //   name: 'Git',
+        //   imageUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+        //   status: 'Version Control'
+        // },
+        // {
+        //   id: 2,
+        //   name: 'GitHub',
+        //   imageUrl: 'https://cdn-icons-png.flaticon.com/512/25/25231.png',
+        //   status: 'Git Hosting'
+        // },
+        // {
+        //   id: 3,
+        //   name: 'NPM',
+        //   imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
+        //   status: 'Package Manager'
+        // },
+        // {
+        //   id: 4,
+        //   name: 'MySQL',
+        //   imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+        //   status: 'Database'
+        // },
       ]
     };
   }
@@ -128,18 +128,17 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Xabi Fabian Suwandi. I’m a creative enthusiast with a passion
+            for design, 3D design, photography, videography, and motion graphics. For me, creativity is not only about
+            visuals, but also about telling stories and bringing ideas to life in the most engaging way possible.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; I love experimenting with different mediums—whether it’s capturing the perfect moment
+            through photography, designing stunning visuals, or creating dynamic motion graphics that leave a lasting
+            impression. Each project I take on is a chance to combine artistic vision with technical skills to deliver
+            something unique and memorable.<br>
+            My goal is to help you express your identity and message through powerful visuals that connect with your
+            audience. If you are interested in collaborating, feel free to reach out through the listed contact.
           </p>
         </div>
 
@@ -162,11 +161,13 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech Stack</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }"
+                @click="activeTab = 1">Software</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }"
+                @click="activeTab = 2">Tools</button>
             </li>
           </ul>
         </div>
@@ -181,7 +182,8 @@ export default {
                     :src="item.imageUrl" style="color: transparent;">
                 </div>
                 <div class="flex items-center text-sm md:text-base lg:text-lg">
-                  <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name }}
+                  <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name
+                  }}
                   </div>
                   <div
                     class="status-tech opacity-0 absolute mt-5 text-[10px] text-amber-200 transition-all duration-300 md:text-xs lg:text-sm">
@@ -202,7 +204,8 @@ export default {
                     :src="item.imageUrl" style="color: transparent;">
                 </div>
                 <div class="flex items-center text-sm md:text-base lg:text-lg">
-                  <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name }}
+                  <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name
+                  }}
                   </div>
                   <div
                     class="status-tech opacity-0 absolute mt-5 text-[10px] text-amber-200 transition-all duration-300 md:text-xs lg:text-sm">
