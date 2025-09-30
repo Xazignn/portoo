@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'Summoners Ascent',
           imageUrl: 'xabi6',
-          status: 'Seni fantasi gelap yang dramatis menampilkan sosok pemanggil berjubah berdiri di puncak tebing berbatu, mengangkat tangan ke langit.Mereka memanggil dua makhluk bersayap raksasa(mirip pterodactyl/ naga) yang muncul di depan bulan purnama biru cemerlang yang sangat besar.Pencahayaan didominasi oleh kontras tajam antara biru dingin dan kegelapan, menciptakan suasana epik dan misterius.',
+          status: 'Seni fantasi gelap yang dramatis menampilkan sosok pemanggil berjubah berdiri di puncak tebing berbatu, mengangkat tangan ke langit. Mereka memanggil dua makhluk bersayap raksasa(mirip pterodactyl/ naga) yang muncul di depan bulan purnama biru cemerlang yang sangat besar.Pencahayaan didominasi oleh kontras tajam antara biru dingin dan kegelapan, menciptakan suasana epik dan misterius.',
           tech: 'Photoshop',
           github: 'https://www.instagram.com/p/DPAwrv7D8qV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
           demo: 'https://files.catbox.moe/9vy6rk.jpg'
